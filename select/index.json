@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "『トンデモワンダーズ(Self Remix)』 feat.初音ミク +KAITO",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-02-19T20:12:39.397763Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トンデモワンダーズ (Self Remix)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/pl_01_トンデモワンダーズ_(Self_Remix)_sasakure.UK.txt"
+    }
+  ]
+}
